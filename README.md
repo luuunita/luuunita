@@ -5,15 +5,17 @@
 ### 💻 Full Stack Developer • Frontend Focus
 ### 🎓 Ingeniería de Sistemas en formación
 
-Construyendo experiencias web modernas, intuitivas y funcionales con tecnologías JavaScript.
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luna-catalina-gomez-amar/)
+<a href="https://www.linkedin.com/in/luna-catalina-gomez-amar/">
+<img src="https://img.shields.io/badge/LinkedIn-Luna%20Catalina-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:glunacatalina@gmail.com)
+<a href="mailto:glunacatalina@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-</div>
-
----
+</p>
 
 # ✨ Sobre mí
 
@@ -168,20 +170,6 @@ Aplicación desarrollada con React que implementa autenticación, carrito de com
 
 ---
 
-# 📈 Mi actividad
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true)
-
-</div>
-
----
-
 # 💡 Mi filosofía
 
 > *"Creo que un buen software no solo debe funcionar correctamente, también debe ofrecer una experiencia agradable para quien lo utiliza."*
@@ -193,8 +181,6 @@ Aplicación desarrollada con React que implementa autenticación, carrito de com
 ### 📬 ¡Conectemos!
 
 📧 **glunacatalina@gmail.com**
-
-💼 LinkedIn
 
 🌎 Colombia
 
