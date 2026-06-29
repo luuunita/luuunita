@@ -7,7 +7,7 @@
 
 Construyendo experiencias web modernas, intuitivas y funcionales con tecnologías JavaScript.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luna-catalina-gomez-amar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luna-catalina-gomez-amar/)
 
 [![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:glunacatalina@gmail.com)
 
