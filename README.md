@@ -57,102 +57,15 @@ Mi objetivo es seguir creciendo profesionalmente como desarrolladora y participa
 
 ---
 
-# 🚀 Proyectos
+<div align="center">
 
-## 🤖 Rick Chat Portal
+| Proyecto | Enlaces |
+|-----------|----------|
+| 🤖 **Rick Chat Portal** | [🌐 Demo](https://m3-luna-gomez.vercel.app/) • [💻 Repositorio](https://github.com/luuunita/M3_LunaGomez) |
+| 💰 **Swap Coin** | [🌐 Demo](https://swap-coin-frontend.vercel.app/) • [💻 Frontend](https://github.com/swapcoinn-droid/Swap-Coin-Frontend) |
+| 🛒 **E-commerce SPA** | [🌐 Demo](https://m5-luna-gomez.vercel.app/) • [💻 Repositorio](https://github.com/luuunita/M5_LunaGomez) |
 
-Aplicación SPA inspirada en **Rick and Morty** que simula conversaciones con **Rick Sanchez** utilizando Google Gemini API.
-
-### Características
-
-✔ Single Page Application
-
-✔ History API
-
-✔ Serverless Functions
-
-✔ Integración con IA
-
-✔ Responsive Design
-
-**Tecnologías**
-
-`JavaScript`
-`Gemini API`
-`Vite`
-`CSS`
-`Vercel`
-
-🔗 Demo
-
-💻 Repositorio
-
-<br clear="right"/>
-
----
-
-## 💰 Swap Coin
-
-
-
-Aplicación Full Stack desarrollada en equipo para gestionar una billetera digital multidivisa.
-
-### Funcionalidades
-
-✔ Gestión de balances
-
-✔ Historial de transacciones
-
-✔ Conversión entre monedas
-
-✔ Backend REST
-
-✔ PostgreSQL
-
-**Tecnologías**
-
-`React`
-
-`TypeScript`
-
-`Node.js`
-
-`Express`
-
-`PostgreSQL`
-
-🔗 Demo
-
-💻 Repositorio
-
-<br clear="left"/>
-
----
-
-## 🛒 E-commerce SPA
-
-
-Aplicación desarrollada con React que implementa autenticación, carrito de compras, catálogo de productos y panel administrativo.
-
-**Tecnologías**
-
-`React`
-
-`TypeScript`
-
-`Firebase`
-
-`Context API`
-
-`Vitest`
-
-🔗 Demo
-
-💻 Repositorio
-
-<br clear="right"/>
-
----
+</div>
 
 # 📚 Actualmente aprendiendo
 
